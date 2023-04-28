@@ -1,0 +1,33 @@
+Answer 1:
+145.254.160.237,216.239.59.99
+216.239.59.99,145.254.160.237
+192.168.1.141,76.74.254.125
+76.74.254.125,192.168.1.141
+65.208.228.223,145.254.160.237
+
+Answer 2:
+download.html
+
+Answer 3:
+192.168.0.2,192.168.0.1
+
+Answer 4:
+user
+
+Answer 5:
+Last login: Sat Nov 27 20:11:43
+
+Answer 6:
+ping,ls,ls,exit
+
+Answer 7:
+edmond
+
+Answer 8:
+cs.uic.edu
+
+Answer 9:
+ls,echo,echo,ping,echo,exit
+
+Answer 10:
+10.8.200.167,100,/xampp/start.php
